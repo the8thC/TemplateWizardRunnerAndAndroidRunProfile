@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Bug.",
+  "classifications": [ "MAUI", "Mobile", "iOS", "Android" ],
+  "identity": "bug.some.one",
+  "description": "It doesn't work first time",
+  "name": "MAUI Bug Example Template",
+  "shortName": "maui-bug",
+  "sourceName": "MauiApp1",
+  "primaryOutputs": [
+    {
+      "path": "MauiApp1.csproj"
+    }
+  ],
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "guids": [ "34A0886D-E0C1-4EDA-9B00-F66BCD192F0B", "1B4DCD25-5D2B-4407-A472-CE6DCB2779F0" ]
+}
